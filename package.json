@@ -1,6 +1,6 @@
 {
   "name": "@mootod/openai-chat-tokens",
-  "version": "0.2.10",
+  "version": "0.2.12",
   "description": "Estimate the number of tokens an OpenAI chat completion request will use (small bundle size)",
   "homepage": "https://github.com/jedsada-gh/openai-chat-tokens#readme",
   "bugs": {

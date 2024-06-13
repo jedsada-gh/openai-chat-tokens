@@ -1,6 +1,6 @@
 # openai-chat-tokens
 
-This repository is a fork of [hmarr/openai-chat-tokens](https://github.com/hmarr/openai-chat-tokens) with modifications to reduce the bundle size by replacing unused large objects.
+This repository is a fork of [hmarr/openai-chat-tokens](https://github.com/hmarr/openai-chat-tokens), modified to reduce the bundle size by replacing unused large objects. The result is that bundle size is ~4 MB, reduced to ~1 MB 🎉.
 
 ## Purpose
 
